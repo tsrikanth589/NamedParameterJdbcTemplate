@@ -9,6 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+	R2.21 changes
 	<table>
 		<tr><td><a href="customers/add">Add Customer</a></td></tr>
 		<tr><td><a href="customers/find-customer-page">Find Customer</a></td></tr>
