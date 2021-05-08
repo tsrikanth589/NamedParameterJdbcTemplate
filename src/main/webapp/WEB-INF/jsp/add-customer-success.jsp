@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>Customer added successfully.....</h2>
+	<h2>Customer added successfully.</h2>
 	<br><a href="/home">home</a>
 </body>
 </html>
